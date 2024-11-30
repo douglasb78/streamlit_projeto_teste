@@ -1,3 +1,7 @@
+## Link: [Baixe o programa já empacotado](https://github.com/douglasb78/streamlit_projeto_teste/releases)
+
+---
+
 ## Como usar só o Streamlit:
 
 Clone o repositório, instale Streamlit, e execute: 
